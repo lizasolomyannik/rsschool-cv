@@ -22,7 +22,12 @@ Previously a digital humanities researcher with a wide humanitarian background. 
 * Command line
 
 ### Code example:
-
+A function that takes two numbers and multiplies them
+```
+function multiply(a, b){
+  return a * b;
+}
+```
 
 ### Education:
 Currently: **Hexlet**, ***Frontend Developer*** Program
