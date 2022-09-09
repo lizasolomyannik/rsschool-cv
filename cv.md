@@ -11,7 +11,9 @@
 ### About:
 > Currently looking for a Junior Frontend Developer job / internship (remote).
 
-Previously a digital humanities researcher with a wide humanitarian background. At ITMO University began to study web development.
+Previously a digital humanities researcher with a wide humanitarian background. At ITMO University began to study web development and became fond of it. I have not worked as a Frontend Developer yet, but I am really looking forward to getting needed experience. 
+
+I also have done several projects that you may find interesting, you can check these projects on my [GitHub](https://github.com/lizasolomyannik)
 
 ### Skills:
 * HTML, CSS
